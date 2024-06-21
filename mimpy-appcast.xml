@@ -23,6 +23,7 @@
             sparkle:edSignature="..." />
         </sparkle:deltas>
     </item>
+    
     <!-- A release testing minimumSystemVersion -->
     <item>
         <title>Version 1.15.15</title>
