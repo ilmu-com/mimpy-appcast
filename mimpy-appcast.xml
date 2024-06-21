@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>Mimpy App - Appcast</title>
+    <title>Mimpy App - Appcast.</title>
     <!-- link mimpy appcast -->
     <link>http://you.com/app/appcast.xml</link>
     <!-- description update -->
