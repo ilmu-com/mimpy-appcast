@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>For unit test only</title>
+    <title>Mimpy - Appcast</title>
     <item>
-        <title>Version 2.0</title>
-        <description>desc Версия</description>
-        <pubDate>Sat, 26 Jul 2014 15:20:11 +0000</pubDate>
+        <title>Version Version 1.15.15</title>
+        <description>Minor updates and improvements</description>
+        <pubDate>Fri, 21 Jun 2024 15:30:00 +0000</pubDate>
         <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="2.0" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
     <!-- The best chosen release -->
     <item>
-        <title>Version 3.0</title>
+        <title>Version Version 1.15.15</title>
         <description>Minor updates and improvements.</description>
-        <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="3.0" sparkle:os="android" />
+        <enclosure url="https://play.google.com/store/apps/details?id=com.ilmu.mimpy" sparkle:version="1.15.15" sparkle:os="android" />
         <sparkle:deltas>
-            <enclosure url="http://localhost:1337/3.0_from_2.0.patch"
-            sparkle:version="3.0"
-            sparkle:deltaFrom="2.0"
+            <enclosure url="https://play.google.com/store/apps/details?id=com.ilmu.mimpy"
+            sparkle:version="1.15.15"
+            sparkle:deltaFrom="1.15.14"
             length="1235"
             type="application/octet-stream"
             sparkle:edSignature="..." />
             
-            <enclosure url="http://localhost:1337/3.0_from_1.0.patch"
-            sparkle:version="3.0"
-            sparkle:deltaFrom="1.0"
+            <enclosure url="https://play.google.com/store/apps/details?id=com.ilmu.mimpy"
+            sparkle:version="1.15.15"
+            sparkle:deltaFrom="1.15.14"
             length="1485"
             type="application/octet-stream"
             sparkle:edSignature="..." />
@@ -32,17 +32,17 @@
     </item>
     <!-- A release testing minimumSystemVersion -->
     <item>
-        <title>Version 4.0</title>
+        <title>Version 1.15.15</title>
         <description>Minor updates and improvements.</description>
-        <pubDate>Sat, 26 Jul 2014 15:20:13 +0000</pubDate>
-        <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="4.0" sparkle:os="iOS" />
-        <sparkle:minimumSystemVersion>17.0.0</sparkle:minimumSystemVersion>
+        <pubDate>Fri, 21 Jun 2024 15:30:00 +0000</pubDate>
+        <enclosure url="https://apps.apple.com/id/app/mimpy/id6451316902" sparkle:version="1.15.15" sparkle:os="iOS" />
+        <sparkle:minimumSystemVersion>16.0.0</sparkle:minimumSystemVersion>
     </item>
     <!-- A release testing maximumSystemVersion -->
     <item>
-        <title>Version 5.0</title>
-        <sparkle:version>5.0</sparkle:version>
-        <sparkle:maximumSystemVersion>2.0.0</sparkle:maximumSystemVersion>
+        <title>Version Version 1.15.15</title>
+        <sparkle:version>Version 1.15.15</sparkle:version>
+        <sparkle:maximumSystemVersion>Version 1.15.16</sparkle:maximumSystemVersion>
     </item>
   </channel>
 </rss>
