@@ -42,7 +42,7 @@
     <item>
         <title>Version Version 1.15.15</title>
         <sparkle:version>Version 1.15.15</sparkle:version>
-        <sparkle:maximumSystemVersion>Version 1.15.16</sparkle:maximumSystemVersion>
+        <sparkle:maximumSystemVersion>Version 1.15.15</sparkle:maximumSystemVersion>
     </item>
   </channel>
 </rss>
