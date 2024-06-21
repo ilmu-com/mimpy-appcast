@@ -3,7 +3,7 @@
   <channel>
     <title>Mimpy - Appcast</title>
     <item>
-        <title>Version 1.15.15</title>
+        <title>Version 1.15.14</title>
         <description>Minor updates and improvements</description>
         <pubDate>Fri, 21 Jun 2024 15:30:00 +0000</pubDate>
         <enclosure url="https://play.google.com/store/apps/details?id=com.ilmu.mimpy" sparkle:version="1.15.15" />
@@ -11,12 +11,12 @@
     </item>
     <!-- The best chosen release -->
     <item>
-        <title>Version 1.15.15</title>
+        <title>Version 1.15.14</title>
         <description>Minor updates and improvements.</description>
-        <enclosure url="https://play.google.com/store/apps/details?id=com.ilmu.mimpy" sparkle:version="1.15.15" sparkle:os="android" />
+        <enclosure url="https://play.google.com/store/apps/details?id=com.ilmu.mimpy" sparkle:version="1.15.14" sparkle:os="android" />
         <sparkle:deltas>
             <enclosure url="https://play.google.com/store/apps/details?id=com.ilmu.mimpy"
-            sparkle:version="1.15.15"
+            sparkle:version="1.15.14"
             sparkle:deltaFrom="1.15.14"
             length="1235"
             type="application/octet-stream"
@@ -32,7 +32,7 @@
     </item>
     <!-- A release testing minimumSystemVersion -->
     <item>
-        <title>Version 1.15.15</title>
+        <title>Version 1.15.14</title>
         <description>Minor updates and improvements.</description>
         <pubDate>Fri, 21 Jun 2024 15:30:00 +0000</pubDate>
         <enclosure url="https://apps.apple.com/id/app/mimpy/id6451316902" sparkle:version="1.15.15" sparkle:os="iOS" />
@@ -40,9 +40,9 @@
     </item>
     <!-- A release testing maximumSystemVersion -->
     <item>
-        <title>Version Version 1.15.15</title>
-        <sparkle:version>Version 1.15.15</sparkle:version>
-        <sparkle:maximumSystemVersion>1.15.15</sparkle:maximumSystemVersion>
+        <title>Version Version 1.15.14</title>
+        <sparkle:version>Version 1.15.14</sparkle:version>
+        <sparkle:maximumSystemVersion>1.15.14</sparkle:maximumSystemVersion>
     </item>
   </channel>
 </rss>
