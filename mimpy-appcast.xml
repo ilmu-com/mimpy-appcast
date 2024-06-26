@@ -30,7 +30,7 @@
         <description>Minor updates and improvements.</description>
         <pubDate>Fri, 21 Jun 2024 15:30:00 +0000</pubDate>
         <enclosure url="https://apps.apple.com/id/app/mimpy/id6451316902" sparkle:version="1.15.15" sparkle:os="iOS" />
-        <sparkle:minimumSystemVersion>16.0.0</sparkle:minimumSystemVersion>
+        <sparkle:minimumSystemVersion>1.15.14</sparkle:minimumSystemVersion>
     </item>
     <!-- A release testing maximumSystemVersion -->
     <item>
